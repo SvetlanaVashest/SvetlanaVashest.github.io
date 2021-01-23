@@ -9,6 +9,7 @@ $(document).ready(function () {
         }
         
         $.ajax({
+            url: 'https://api.slapform.com/svetavashect@gmail.com',
             type: "POST",
             dataType: "json",
             url: href,
